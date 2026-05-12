@@ -58,6 +58,10 @@ This project demonstrates:
 * HTML parsing
 * Data extraction
 * Automation workflows
+## Screenshot
+
+![Project Screenshot](project.png)
+* 
 
 ---
 
